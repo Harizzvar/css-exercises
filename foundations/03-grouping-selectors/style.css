@@ -1,0 +1,14 @@
+.clk {
+    color: white;
+    background-color: black;
+}
+
+.clk2 {
+    background-color: yellow;
+
+}
+
+.clk, .clk2 {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
